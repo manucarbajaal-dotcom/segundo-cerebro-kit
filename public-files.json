@@ -1,0 +1,14 @@
+[
+  ".gitignore",
+  "LICENSE",
+  "README.md",
+  "README.es.md",
+  "PROTOCOL.md",
+  "CONTRIBUTING.md",
+  "ARCHITECTURE.md",
+  "brainkit.py",
+  "test_brainkit.py",
+  "public-files.json",
+  "examples/notes/2026-11-11-documentation.md",
+  "examples/wiki/architecture.md"
+]

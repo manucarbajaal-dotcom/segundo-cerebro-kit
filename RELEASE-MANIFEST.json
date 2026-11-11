@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 53,
+      "sha256": "b9671d56bbf5a61e1cd68328c3a71efc01b0b7ff7a0e7bf8b4c8eb1234efb400"
+    },
+    {
+      "path": "ARCHITECTURE.md",
+      "bytes": 2462,
+      "sha256": "6c44d9bbec862a9559a92e5487c21b2fc00d6d583ba31e35b3380b1ee04660a0"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "bytes": 880,
+      "sha256": "d50e4640c92ab95da262ac2c9df0956f508b94fdd97f18613c65a09400aa64bc"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1071,
+      "sha256": "4053f8436fdde59566f9ab3df7fc88bd4d2e641fb7f4f83acf05940c02d97490"
+    },
+    {
+      "path": "PROTOCOL.md",
+      "bytes": 1652,
+      "sha256": "f720ff19f27dd61009a8a0f2d875f1024173ebb38e94b8fa7758775c61b54783"
+    },
+    {
+      "path": "README.es.md",
+      "bytes": 2386,
+      "sha256": "038fd9b7295e363043cb9c38ea19f168955289b9e35c32d645c19543e80f1ce6"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4900,
+      "sha256": "ab645ccaa6d26102869650ca79a2dac29febdbb78f8d331638577839ecbb6a91"
+    },
+    {
+      "path": "brainkit.py",
+      "bytes": 13170,
+      "sha256": "805538bae3cd6dc33b8e5f1b2664c8cdd664712acf1c5f4c45b115fd14a8fee8"
+    },
+    {
+      "path": "examples/notes/2026-11-11-documentation.md",
+      "bytes": 495,
+      "sha256": "b17dc5660ce6e0b9dfaa1224daecbe0822dbc1560fdefc29ae30cbb99b94c5ce"
+    },
+    {
+      "path": "examples/wiki/architecture.md",
+      "bytes": 340,
+      "sha256": "349cfa5901bb24a22f73327db3e74b67db6e4937db99b8ac5608aae402034135"
+    },
+    {
+      "path": "public-files.json",
+      "bytes": 269,
+      "sha256": "e5e4e89918c18f695d538591a48ab9278c74d8ad2c50b69124cc2be2fe849182"
+    },
+    {
+      "path": "test_brainkit.py",
+      "bytes": 7397,
+      "sha256": "b791fb0085f814030aee3be68e1c8614a71c322e6f49b115862ace700e190714"
+    }
+  ]
+}
